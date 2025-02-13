@@ -1,0 +1,312 @@
+[
+  {
+    "date": "2023-07-01",
+    "voltage": 46.49,
+    "current": 11.74,
+    "temperature": 38,
+    "state_of_charge": 58,
+    "cycles": 60,
+    "capacity_ah": 97.285,
+    "internal_resistance": 0.10362
+  },
+  {
+    "date": "2023-07-02",
+    "voltage": 46.39,
+    "current": 11.84,
+    "temperature": 26,
+    "state_of_charge": 83,
+    "cycles": 60,
+    "capacity_ah": 97.27,
+    "internal_resistance": 0.10364000000000001
+  },
+  {
+    "date": "2023-07-03",
+    "voltage": 46.22,
+    "current": 11.46,
+    "temperature": 27,
+    "state_of_charge": 96,
+    "cycles": 61,
+    "capacity_ah": 97.255,
+    "internal_resistance": 0.10366
+  },
+  {
+    "date": "2023-07-04",
+    "voltage": 46.37,
+    "current": 11.73,
+    "temperature": 40,
+    "state_of_charge": 72,
+    "cycles": 61,
+    "capacity_ah": 97.24000000000001,
+    "internal_resistance": 0.10368
+  },
+  {
+    "date": "2023-07-05",
+    "voltage": 46.66,
+    "current": 11.74,
+    "temperature": 26,
+    "state_of_charge": 83,
+    "cycles": 61,
+    "capacity_ah": 97.22500000000001,
+    "internal_resistance": 0.1037
+  },
+  {
+    "date": "2023-07-06",
+    "voltage": 46.18,
+    "current": 11.82,
+    "temperature": 37,
+    "state_of_charge": 67,
+    "cycles": 62,
+    "capacity_ah": 97.21,
+    "internal_resistance": 0.10371999999999999
+  },
+  {
+    "date": "2023-07-07",
+    "voltage": 46.77,
+    "current": 11.63,
+    "temperature": 38,
+    "state_of_charge": 43,
+    "cycles": 62,
+    "capacity_ah": 97.195,
+    "internal_resistance": 0.10374000000000001
+  },
+  {
+    "date": "2023-07-08",
+    "voltage": 46.38,
+    "current": 11.94,
+    "temperature": 41,
+    "state_of_charge": 75,
+    "cycles": 62,
+    "capacity_ah": 97.18,
+    "internal_resistance": 0.10376000000000002
+  },
+  {
+    "date": "2023-07-09",
+    "voltage": 47.14,
+    "current": 11.72,
+    "temperature": 31,
+    "state_of_charge": 62,
+    "cycles": 63,
+    "capacity_ah": 97.165,
+    "internal_resistance": 0.10378000000000001
+  },
+  {
+    "date": "2023-07-10",
+    "voltage": 46.56,
+    "current": 11.4,
+    "temperature": 33,
+    "state_of_charge": 100,
+    "cycles": 63,
+    "capacity_ah": 97.15,
+    "internal_resistance": 0.1038
+  },
+  {
+    "date": "2023-07-11",
+    "voltage": 46.22,
+    "current": 11.47,
+    "temperature": 35,
+    "state_of_charge": 46,
+    "cycles": 63,
+    "capacity_ah": 97.135,
+    "internal_resistance": 0.10382000000000001
+  },
+  {
+    "date": "2023-07-12",
+    "voltage": 46.27,
+    "current": 11.72,
+    "temperature": 35,
+    "state_of_charge": 75,
+    "cycles": 64,
+    "capacity_ah": 97.11999999999999,
+    "internal_resistance": 0.10384
+  },
+  {
+    "date": "2023-07-13",
+    "voltage": 47.04,
+    "current": 11.43,
+    "temperature": 33,
+    "state_of_charge": 76,
+    "cycles": 64,
+    "capacity_ah": 97.10499999999999,
+    "internal_resistance": 0.10386000000000001
+  },
+  {
+    "date": "2023-07-14",
+    "voltage": 46.46,
+    "current": 11.84,
+    "temperature": 35,
+    "state_of_charge": 69,
+    "cycles": 64,
+    "capacity_ah": 97.09,
+    "internal_resistance": 0.10388
+  },
+  {
+    "date": "2023-07-15",
+    "voltage": 46.48,
+    "current": 11.68,
+    "temperature": 32,
+    "state_of_charge": 73,
+    "cycles": 65,
+    "capacity_ah": 97.075,
+    "internal_resistance": 0.10389999999999999
+  },
+  {
+    "date": "2023-07-16",
+    "voltage": 46.62,
+    "current": 11.51,
+    "temperature": 32,
+    "state_of_charge": 81,
+    "cycles": 65,
+    "capacity_ah": 97.06,
+    "internal_resistance": 0.10392
+  },
+  {
+    "date": "2023-07-17",
+    "voltage": 46.66,
+    "current": 11.66,
+    "temperature": 41,
+    "state_of_charge": 61,
+    "cycles": 65,
+    "capacity_ah": 97.045,
+    "internal_resistance": 0.10394000000000002
+  },
+  {
+    "date": "2023-07-18",
+    "voltage": 46.09,
+    "current": 11.92,
+    "temperature": 36,
+    "state_of_charge": 51,
+    "cycles": 66,
+    "capacity_ah": 97.03,
+    "internal_resistance": 0.10396000000000001
+  },
+  {
+    "date": "2023-07-19",
+    "voltage": 46.39,
+    "current": 11.78,
+    "temperature": 41,
+    "state_of_charge": 45,
+    "cycles": 66,
+    "capacity_ah": 97.015,
+    "internal_resistance": 0.10398000000000002
+  },
+  {
+    "date": "2023-07-20",
+    "voltage": 46.87,
+    "current": 11.73,
+    "temperature": 37,
+    "state_of_charge": 60,
+    "cycles": 66,
+    "capacity_ah": 97.0,
+    "internal_resistance": 0.10400000000000001
+  },
+  {
+    "date": "2023-07-21",
+    "voltage": 46.45,
+    "current": 11.66,
+    "temperature": 29,
+    "state_of_charge": 95,
+    "cycles": 67,
+    "capacity_ah": 96.985,
+    "internal_resistance": 0.10402
+  },
+  {
+    "date": "2023-07-22",
+    "voltage": 46.76,
+    "current": 11.38,
+    "temperature": 27,
+    "state_of_charge": 40,
+    "cycles": 67,
+    "capacity_ah": 96.97,
+    "internal_resistance": 0.10404000000000001
+  },
+  {
+    "date": "2023-07-23",
+    "voltage": 46.35,
+    "current": 11.93,
+    "temperature": 40,
+    "state_of_charge": 46,
+    "cycles": 67,
+    "capacity_ah": 96.955,
+    "internal_resistance": 0.10406
+  },
+  {
+    "date": "2023-07-24",
+    "voltage": 46.25,
+    "current": 11.72,
+    "temperature": 39,
+    "state_of_charge": 67,
+    "cycles": 68,
+    "capacity_ah": 96.94,
+    "internal_resistance": 0.10408
+  },
+  {
+    "date": "2023-07-25",
+    "voltage": 46.28,
+    "current": 11.85,
+    "temperature": 33,
+    "state_of_charge": 90,
+    "cycles": 68,
+    "capacity_ah": 96.92500000000001,
+    "internal_resistance": 0.1041
+  },
+  {
+    "date": "2023-07-26",
+    "voltage": 46.48,
+    "current": 11.92,
+    "temperature": 28,
+    "state_of_charge": 51,
+    "cycles": 68,
+    "capacity_ah": 96.91,
+    "internal_resistance": 0.10411999999999999
+  },
+  {
+    "date": "2023-07-27",
+    "voltage": 46.56,
+    "current": 11.45,
+    "temperature": 34,
+    "state_of_charge": 88,
+    "cycles": 69,
+    "capacity_ah": 96.895,
+    "internal_resistance": 0.10414000000000001
+  },
+  {
+    "date": "2023-07-28",
+    "voltage": 46.73,
+    "current": 11.36,
+    "temperature": 38,
+    "state_of_charge": 94,
+    "cycles": 69,
+    "capacity_ah": 96.88,
+    "internal_resistance": 0.10416000000000002
+  },
+  {
+    "date": "2023-07-29",
+    "voltage": 46.97,
+    "current": 11.61,
+    "temperature": 27,
+    "state_of_charge": 84,
+    "cycles": 69,
+    "capacity_ah": 96.865,
+    "internal_resistance": 0.10418000000000001
+  },
+  {
+    "date": "2023-07-30",
+    "voltage": 46.32,
+    "current": 11.91,
+    "temperature": 29,
+    "state_of_charge": 70,
+    "cycles": 70,
+    "capacity_ah": 96.85000000000001,
+    "internal_resistance": 0.10420000000000001
+  },
+  {
+    "date": "2023-07-31",
+    "voltage": 46.84,
+    "current": 11.75,
+    "temperature": 42,
+    "state_of_charge": 72,
+    "cycles": 70,
+    "capacity_ah": 96.83500000000001,
+    "internal_resistance": 0.10422000000000001
+  }
+]
