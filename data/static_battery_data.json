@@ -1,0 +1,13 @@
+{
+    "timestamps": ["2024-03-20 08:00", "2024-03-20 09:00", "2024-03-20 10:00", "2024-03-20 11:00", "2024-03-20 12:00"],
+    "voltage": [48.1, 47.8, 47.5, 47.2, 46.9],
+    "current": [12.3, 12.1, 11.9, 11.7, 11.5],
+    "temperature": [28, 29, 31, 32, 33],
+    "state_of_charge": [95, 85, 75, 65, 55],
+    "cycle_count": [120, 121, 122, 123, 124],
+    "health_metrics": {
+        "capacity_retention": 85,
+        "impedance_increase": 15,
+        "self_discharge_rate": 2.5
+    }
+}
